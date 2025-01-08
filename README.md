@@ -60,21 +60,26 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free
   - **Contact**: https://x.com/FreeAILogoMaker
 
-## Audio & Speech
+### Audio & Speech
 
-- [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
-  - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
+- **ElevenLabs** - Advanced AI voice synthesis and cloning.
+  - **Tags**: Free, Subscription, AI, Voice, Text-to-Speech
   - **Pricing**: Free tier, Premium
-  - **Contact**: https://x.com/elevenlabsio
-
-- [Murf.ai](https://murf.ai) - AI voice generator for professional voiceovers.
-  - **Tags**: `Free` `Subscription` `AI` `Voice` `Business`
+  - **Contact**: [https://x.com/elevenlabsio](https://x.com/elevenlabsio)
+  
+- **Murf.ai** - AI voice generator for professional voiceovers.
+  - **Tags**: Free, Subscription, AI, Voice, Business
   - **Pricing**: Free tier, Pro
-
-- [Play.ht](https://play.ht) - AI voice generator with natural speech patterns.
-  - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
+  
+- **Play.ht** - AI voice generator with natural speech patterns.
+  - **Tags**: Free, Subscription, AI, Voice, Text-to-Speech
   - **Pricing**: Free tier, Pro
-  - **Contact**: https://x.com/play_ht
+  - **Contact**: [https://x.com/play_ht](https://x.com/play_ht)
+
+- **AccurateScribe.ai** - Accurate transcription for audio and video.
+  - **Tags**: Free, Subscription, AI, Transcription, Audio-to-Text, Video-to-Text
+  - **Pricing**: Free tier, Paid plans starting at $9.99/month
+  - **Contact**: [https://accuratescribe.ai](https://accuratescribe.ai)
 
 ## Productivity
 
